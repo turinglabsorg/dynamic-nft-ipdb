@@ -8,8 +8,7 @@ async function main() {
     let wallet = new ethers.Wallet(configs.owner_key).connect(provider)
     const contract = new ethers.Contract(configs.contract_address, ABI.abi, wallet)
     console.log('Minting NFT..')
-    const metadata = 'IPFS_HASH'
-    const result = await contract.dropNFT(metadata)
+    const result = await contract.dropNFT()
     console.log(result)
 }
 
