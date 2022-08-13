@@ -1,0 +1,13 @@
+{
+    "network": "localhost",
+    "contract_name": "IPDBNft",
+    "constructor_arguments": [
+        "IPDBNft",
+        "DTKN"
+    ],
+    "contract_address": "",
+    "owner_mnemonic": "",
+    "provider": "http://localhost:8545",
+    "owner_key": "",
+    "owner_address": ""
+}
