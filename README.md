@@ -1,7 +1,5 @@
 # IPDB / Dynamic NFT Contract
 
-[![MythXBadge](https://badgen.net/https/api.mythx.io/v1/projects/954f31f3-834a-417e-b915-aa42e51ee793/badge/data?cache=300&icon=https://raw.githubusercontent.com/ConsenSys/mythx-github-badge/main/logo_white.svg)](https://docs.mythx.io/dashboard/github-badges)
-
 
 ## Requirements
 
